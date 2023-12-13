@@ -1,0 +1,53 @@
+© 2021, Ispirer Systems. All Rights Reserved. 
+
+ISPIRER REUSABLE CODE END USER LICENSE AGREEMENT
+
+RECITALS
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING ANY OF ISPIRER REUSABLE CODE (“IRC”). ISPIRER SYSTEMS LICENSES IRC TO THE USER ONLY IF THE USER FIRST ACCEPTS THE TERMS OF THIS AGREEMENT (“AGREEMENT”). BY USING IRC THE USER AGREES ON THE TERMS PROVIDED HEREIN. IF THE USER DOES NOT AGREE TO THE TERMS OF THIS AGREEMENT, THE USER MUST REMOVE IRC FROM HIS STORAGE DEVICES AND CEASE TO USE IRC. 
+
+GENERAL TERMS & CONDITIONS
+This Agreement (“Agreement”) is entered into by and between Ispirer Systems, OU - Estonia - (for EU region), Ispirer Systems LTD - Belarus - (for CIS region), or Ispirer Systems, LLC - USA - (for others) (hereinaftre “Licensor” and “Ispirer”) and the User (“you”), hereinafter collectively referred to as “the Parties”. 
+The Licensor hereby licenses to you IRC, defined below* on the terms and conditions stated in this Agreement. IRC is owned by the Licensor, and is copyrighted and licensed, not sold. By using this IRC you agree that IRC is the property of and belongs to Ispirer Systems only.
+
+*Ispirer has created codes (files, libraries, etc.) that are reusable or are useful for one or more products, tasks and projects, performed by Ispirer in accordance with professional services agreements concluded by Ispirer. Such codes are termed Ispirer Reusable Codes. 
+
+GRANT OF LICENSE
+If you were provided with IRC under any professional services or license agreement concluded with the Licensor, you are granted a non-exclusive, worldwide, perpetual, irrevocable and fully paid up license to use, modify, adapt, sublicense, and otherwise exploit this IRC as provided below and solely in order to use it as a part of the deliverables and/or its derivatives, transferred to you by the Licensor under professional services or license agreement between you and the Licensor. 
+Redistributions of each IRC must retain the above copyright notice.
+IF YOU ARE NOT IN A LAWFUL POSSESSION OF ANY DELIVERABLES, TRANSFERRED BY THE LICENSOR TO ITS CUSTOMERS UNDER PROFESSIONAL SERVICES OR LICENSE AGREEMENT, OR ITS DERIVATIVES TO USE THIS IRC WITH, PLEASE, STOP USING IRC IMMEDIATELY!
+
+IRC COPIES
+You may make copies of IRC for your internal purposes only.
+
+DISTRIBUTION
+You may not distribute registered copies of IRC to third parties, allow any third parties to access, use or support IRC with the exception of cases of such distribution in conjunction with the deliverables and/or its derivatives, transferred to you by the Licensor under professional services or license agreement between you and the Licensor. 
+
+MODIFICATION, REVERSE ENGINEERING, DECOMPILATION, AND DISASSEMBLY
+You may modify, enhance, or alter IRC in any way, if the list of all changes is added to IRC as supplementary .txt file. You may not remove or alter any copyright notices or other proprietary notices on any copies of IRC.
+
+RENTAL	
+You may rent, lease, license, sublicense or distribute the licensed IRC or any portions of it as part of the deliverables and/or its derivatives, transferred to you by the Licensor under professional services or license agreement between you and the Licensor.
+
+AUDIT
+Licensor has the right to audit the use of the licensed IRC by providing at least seven (7) days prior written notice of its intention to conduct such an audit at your facilities during normal business hours.
+
+PROPRIETARY RIGHTS
+You agree that IRC and the authorship, systems, ideas, methods of operation, documentation and other information contained in IRC, are proprietary intellectual properties and/or the valuable trade secrets of the Licensor and are protected by civil and criminal law, and by the law of copyright, trade secret, trademark and patent of the United States, other countries and international treaties. 
+You may use trademarks only insofar as to identify printed output produced by IRC in accordance with accepted trademark practice, including identification of trademark owner’s name. Such use of any trademark does not give you any rights of ownership in that trademark. 
+The Licensor own and retain all rights, title, and interest in and to IRC, including without limitations any error corrections, customizations, enhancements, updates, modifications and derivatives, whether made by the Licensor or any third party, and all copyrights, patents, trade secret rights, trademarks, and other intellectual property rights therein. 
+Your possession, installation or use of IRC does not transfer to you any title to the intellectual property in IRC, and you will not acquire any rights to IRC except as expressly set forth in this Agreement. All copies of IRC made hereunder must contain the same proprietary notices that appear on and in IRC. Except as stated herein, this Agreement does not grant you any intellectual property rights in IRC and you acknowledges that the license granted under this Agreement only provides you with a right of limited use under the terms and conditions of this Agreement. 
+The Licensor reserves all rights not expressly granted to you in this Agreement.
+
+NO WARRANTY
+THE IRC IS BEING DELIVERED TO YOU "AS IS" AND THE LICENSOR MAKES NO WARRANTY AS TO ITS USE OR PERFORMANCE. THE LICENSOR DOES NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS THE USER MAY OBTAIN BY USING IRC. THE LICENSOR MAKES NO WARRANTIES CONDITIONS, REPRESENTATIONS, OR TERMS (EXPRESS OR IMPLIED WHETHER BY STATUTE, COMMON LAW, CUSTOM, USAGE OR OTHERWISE) AS TO ANY MATTER INCLUDING WITHOUT LIMITATION OF THIRD PARTY RIGHTS, MERCHANTABILITY, INTEGRATION, SATISFACTORY QUALITY, FOR ANY PARTICULAR PURPOSE.
+
+LIMITATION OF LIABILITY
+IN NO EVENT WILL THE LICENSOR BE LIABLE TO THE USER FOR ANY DAMAGES, CLAIMS OR COSTS WHATSOEVER OR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL DAMAGES, OR ANY LOST PROFITS OR LOST SAVINGS, EVEN IF THE LICENSOR REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS, DAMAGES, CLAIMS OR COSTS OR FOR ANY CLAIM BY ANY THIRD PARTY.
+
+COMPLIANCE WITH APPLICABLE LAWS
+You must comply with all applicable laws regarding the use of intellectual property. This Agreement shall be governed by and construed under the laws of the State of Washington and in conformance with international intellectual property laws. Any controversy or claim arising out of or relating to this Agreement, or the breach thereof, shall be settled by arbitration administered by the International Centre for Dispute Resolution in accordance with its International Arbitration Rules. The seat of arbitration shall be Seattle, WA.
+
+NOTICES
+All notice required under this Agreement shall be served to Ispirer Systems electronically:
+Email: support@ispirer.com; legal.department@ispirer.com 
+Website:   www.ispirer.com
